@@ -11,4 +11,24 @@ Debits and Credits
 
 Study 3: 25:00 - 39:00 (1 Hours of study)
 
-Journal Entries
+Journal Entries 
+
+Study 4: 39.00 - 1.03.00 (I forgot)
+
+Assets and Liabilities
+
+Study 5: 1.03.00 - 1.25.00 (53 minutes of study)
+
+Equity, Cash and Accrual method, Revenue Recognition Principle
+
+Study 6: 1.25.00 - 3.02.39 (1 Hours 34 minutes of study)
+
+Inventory & Cost of Goods Sold
+Debits & Credit Practice Question
+DEALER AGAIN
+General Ledger
+Trial Balance 
+Adjusting Entires
+Prepraid and Accrual - Expense and Revenue
+Depreciation
+Straight Line Method
