@@ -32,3 +32,8 @@ Adjusting Entires
 Prepraid and Accrual - Expense and Revenue
 Depreciation
 Straight Line Method
+
+Study 7: 3.02.39 - 3.17.15 (I forgot)
+Income Statement
+
+Study 8:
