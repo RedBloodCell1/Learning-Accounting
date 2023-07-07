@@ -41,5 +41,12 @@ Balance sheet and how to make
 Trial balance VS Balance Sheet
 Cash flow statement Direct and Indirect method
 
+Study 9: 4.16.26 - 4.50.58 ( 40 Minutes of study)
+How to make cash flow statement
+Key to understanding financial statement
+Closing Entries
+
+Im officially done with the accounting. So i will post it in word what i have write and maybe it will one day be useful for someone. See you guys. I will continue doing leetcode interview problems. I will make a repository just to keep track of what i have done and learned.
 
 PS: You guys might be wondering where am i? Im doing leetcode question so i will not be active in github much, I will finish this accounting today and focus on solving 150 leetcode interview problem and understanding the best solution for each problem. See you guys after i finish all the leetcode problem. It will be long yeah but i promise it will be worth it and i will be back as a better person.
+
